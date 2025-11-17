@@ -118,7 +118,7 @@ I'm a passionate **Vibe Coder** and **Full Stack Developer** who loves building 
 
 ## 🎯 Current Goals for 2025
 
-- 🎨 Mencari **Workflow Vibe Coding** yang sempurna untuk membuat website atau aplikasi
+- 🎨 Mencari **Workflow Vibe Coding** yang sempurna untuk membuat Full-Stack website atau aplikasi
 - 🚀 Master **Next.js & Hono.js**
 - 💻 Build more awesome projects with perfect coding vibe
 - 🤝 Contribute to **Open Source Projects**
