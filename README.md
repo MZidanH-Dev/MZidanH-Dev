@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Zidan!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Vibe+Coder;Full+Stack+Developer;Introvert+Akut;Building+Cool+Stuff" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Vibe+Coder;Full+Stack+Developer;Introvert;Building+Cool+Stuff" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -23,7 +23,7 @@ I'm a passionate **Vibe Coder** and **Full Stack Developer** who loves building 
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **PHP, JavaScript, React, or anything web development**
 - 📫 Reach me at: **muhammadzidan.hikayatuloh@gmail.com**
-- ⚡ Fun fact: **Saya Introvert Akut** 🤫
+- ⚡ Fun fact: **I am an Acute Introvert** 🤫
 
 ---
 
@@ -125,7 +125,7 @@ I'm a passionate **Vibe Coder** and **Full Stack Developer** who loves building 
 
 ## 🎯 Current Goals for 2025
 
-- 🎨 Mencari **Workflow Vibe Coding** yang sempurna untuk membuat Full-Stack website atau aplikasi
+- 🎨 Looking for the perfect **Workflow Vibe Coding** to create a Full-Stack website or application
 - 🚀 Master **Next.js & Hono.js**
 - 💻 Build more awesome projects with perfect coding vibe
 - 🤝 Contribute to **Open Source Projects**
