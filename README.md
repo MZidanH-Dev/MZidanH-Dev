@@ -1,79 +1,71 @@
-# 👋 Hi there, I'm [Zidan]!
+# 👋 Hi there, I'm Zidan!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Vibe+Coder;Full+Stack+Developer;Introvert+Akut;Building+Cool+Stuff" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-zidan-hikayatuloh-0423ba366/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/MZidanDev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="http://instagram.com/mzidan.dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:muhammadzidan.hikayatuloh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://zidan.vibe.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** with a keen interest in building scalable web applications and contributing to open-source projects. I love turning complex problems into simple, beautiful, and intuitive solutions.
+I'm a passionate **Vibe Coder** and **Full Stack Developer** who loves building web applications with the perfect coding flow. I believe in creating elegant solutions while maintaining that perfect coding vibe.
 
-- 🔭 Currently working on **[Your Current Project]**
-- 🌱 Learning **[Technology You're Learning]**
+- 🔭 Currently working on **Web App Portal PKL**
+- 🌱 Learning **Next.js & Hono.js**
 - 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, React, Node.js, or anything tech**
-- 📫 Reach me at: **your.email@example.com**
-- ⚡ Fun fact: **[Something interesting about you]**
+- 💬 Ask me about **PHP, JavaScript, React, or anything web development**
+- 📫 Reach me at: **muhammadzidan.hikayatuloh@gmail.com**
+- ⚡ Fun fact: **Saya Introvert Akut** 🤫
 
 ---
 
 ## 💻 Tech Stack
 
 ### Languages
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 
 ### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MZidanH-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MZidanH-Dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MZidanH-Dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
 </div>
 
 ---
@@ -81,7 +73,7 @@ I'm a passionate **Full Stack Developer** with a keen interest in building scala
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MZidanH-Dev&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -89,7 +81,7 @@ I'm a passionate **Full Stack Developer** with a keen interest in building scala
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MZidanH-Dev&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -97,34 +89,22 @@ I'm a passionate **Full Stack Developer** with a keen interest in building scala
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight&hide_border=true" alt="Project 1"/>
+  <a href="https://github.com/MZidanH-Dev/aplikasi-manajemen-tabungan">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MZidanH-Dev&repo=aplikasi-manajemen-tabungan&theme=tokyonight&hide_border=true" alt="Aplikasi Manajemen Tabungan"/>
   </a>
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight&hide_border=true" alt="Project 2"/>
+  <a href="https://github.com/MZidanH-Dev/game-super-phaser">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MZidanH-Dev&repo=game-super-phaser&theme=tokyonight&hide_border=true" alt="Game Super Phaser"/>
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/yourusername/project3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project3&theme=tokyonight&hide_border=true" alt="Project 3"/>
+  <a href="https://github.com/MZidanH-Dev/website-inventory-barang">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MZidanH-Dev&repo=website-inventory-barang&theme=tokyonight&hide_border=true" alt="Website Inventory Barang"/>
   </a>
-  <a href="https://github.com/yourusername/project4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project4&theme=tokyonight&hide_border=true" alt="Project 4"/>
+  <a href="https://github.com/MZidanH-Dev/website-presensi-sekolah">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MZidanH-Dev&repo=website-presensi-sekolah&theme=tokyonight&hide_border=true" alt="Website Presensi Sekolah"/>
   </a>
 </div>
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Article Title 1](https://yourblog.com/article1)
-- [Article Title 2](https://yourblog.com/article2)
-- [Article Title 3](https://yourblog.com/article3)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [More blog posts...](https://yourblog.com)
 
 ---
 
@@ -138,11 +118,11 @@ I'm a passionate **Full Stack Developer** with a keen interest in building scala
 
 ## 🎯 Current Goals for 2025
 
-- 🎓 Master **[Technology/Framework]**
-- 🚀 Contribute to **10+ Open Source Projects**
-- 📝 Write **24 Technical Blog Posts**
-- 🎨 Build **3 Major Portfolio Projects**
-- 🤝 Mentor **Junior Developers**
+- 🎨 Mencari **Workflow Vibe Coding** yang sempurna untuk membuat website atau aplikasi
+- 🚀 Master **Next.js & Hono.js**
+- 💻 Build more awesome projects with perfect coding vibe
+- 🤝 Contribute to **Open Source Projects**
+- 📝 Share knowledge through **Technical Writing**
 
 ---
 
@@ -150,21 +130,23 @@ I'm a passionate **Full Stack Developer** with a keen interest in building scala
 
 <div align="center">
   
-**Let's build something amazing together!**
+**Let's vibe and build something amazing together!**
 
-Feel free to reach out if you want to collaborate on projects, discuss tech, or just chat!
+Feel free to reach out if you want to collaborate on projects, discuss tech, or just chat about coding!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=About.me)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-zidan-hikayatuloh-0423ba366/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/MZidanDev)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](http://instagram.com/mzidan.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=About.me)](https://zidan.vibe.vercel.app)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=MZidanH-Dev&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
   
   ### Show some ❤️ by starring some of the repositories!
   
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </div>
