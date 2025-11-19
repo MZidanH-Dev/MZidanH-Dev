@@ -143,7 +143,7 @@ I'm a passionate **Vibe Coder** and **Full Stack Developer** who loves building 
 Feel free to reach out if you want to collaborate on projects, discuss tech, or just chat about coding!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-zidan-hikayatuloh-0423ba366/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/MZidanDev)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x)](https://x.com/MZidanDev)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](http://instagram.com/mzidan.dev/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=About.me)](https://zidan.vibe.vercel.app)
 
